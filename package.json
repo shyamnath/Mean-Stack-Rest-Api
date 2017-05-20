@@ -1,0 +1,21 @@
+{
+  "name": "todolistapi",
+  "version": "1.0.0",
+  "description": "Restfull TodoList",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello world"
+  },
+  "keywords": [
+    "API"
+  ],
+  "author": "Shyam",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "dependencies": {
+    "express": "^4.15.2",
+    "mongoose": "^4.9.8"
+  }
+}
